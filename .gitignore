@@ -1,0 +1,5 @@
+# Ignore Aptana Project File #
+.project
+
+# Ignore Compiled Site #
+_site/*
