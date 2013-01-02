@@ -7,7 +7,7 @@ This tool really just exists to create a "base" directory for starting new proje
 ## What's Included: ##
 * all the directories that Jekyll needs to compile your static site
 * jQuery
-* the foundation framework (css/js/images)
+* a stripped-down version of the foundation framework -- just the grid and orbit slideshow.
 * a default html5 template in _layouts
 * a default nav bar under _includes
 * orbit slideshow js code in _includes, ready to be called on any page
