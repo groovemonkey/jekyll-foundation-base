@@ -63,11 +63,11 @@ For an example of this, see _layouts/default.html -- I include the nav.html snip
 
 Foundation's Orbit code is ready to plug into your website; the javascript to trigger it can be found in _includes/orbit.html -- just include that on the page where you want a slideshow, and then add a div#slideshow with image tags inside:
 
-<div id="slideshow">
-	<img src="something.jpg" alt="blah">
-	<img src="somethingelse.jpg" alt="yeah">
-	<img src="foo.jpg" alt="bar">
-</div>
+    <div id="slideshow">
+    	<img src="something.jpg" alt="blah">
+    	<img src="somethingelse.jpg" alt="yeah">
+    	<img src="foo.jpg" alt="bar">
+    </div>
 
 That's it.
 
