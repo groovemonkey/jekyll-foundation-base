@@ -1,3 +1,5 @@
+# THIS REPOSITORY HASN'T BEEN UPDATED IN ~13 YEARS (as of 2025) SO I'M ARCHIVING IT.
+
 # Jekyll + Foundation CSS #
 
 I love Zurb's Foundation framework, and Jekyll is a great tool for preventing code duplication while building static HTML/CSS/js websites.
